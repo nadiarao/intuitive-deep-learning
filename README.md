@@ -1,4 +1,9 @@
 # Intuitive Deep Learning
+********************************************************************************************
+Verified and tested by Nadia Rao. 
+
+This code has been originally developed by github.com/josephlee94/intuitive-deep-learning. 
+********************************************************************************************
 
 A beginner-friendly tutorial to introduce Deep Learning concepts in an intuitive way!
 
